@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MINER432_SMP.aternos.me",
+    "ip": "MINER432_SMP.aternos.me:48438",
     "port": 48438,
     "version": "",
     "try-creative": false
